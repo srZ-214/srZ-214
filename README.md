@@ -19,7 +19,4 @@ I enjoy:
 - Playing chess 
 - Stardew Valley 
 
-## Get in touch
-- 📧 Email: u7614478-at-anu-dot-edu-DoT-au
-
 Thanks for stopping by my profile! Feel free to check out my repositories and connect.
