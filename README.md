@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi!
 
-<!--
-**srZ-214/srZ-214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student passionate about AI, specifically automated planning. Started my honors research in classical planning in Spring 2025.
 
-Here are some ideas to get you started:
+## What I'm up to
+- Currently studying AI with focus on automated planning
+- Working on my honors research in classical planning
+- Learning and growing my skills in Java and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+- Java
+- Python
+
+## When not coding...
+I enjoy:
+- Playing piano 
+- Taking care of my aquarium 
+- Playing chess 
+- Stardew Valley 
+
+## Get in touch
+- 📧 Email: u7614478-at-anu-dot-edu-DoT-au
+
+Thanks for stopping by my profile! Feel free to check out my repositories and connect.
