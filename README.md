@@ -1,7 +1,7 @@
 Hi!
 
 ## About Me
-I'm a student passionate about AI, specifically automated planning. Started my honors research in classical planning in Spring 2025.
+I'm a student passionate about AI, specifically automated planning. Started my honors research in classical planning in S1 2025.
 
 ## What I'm up to
 - Currently studying AI with focus on automated planning
